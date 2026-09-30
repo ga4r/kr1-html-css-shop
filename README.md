@@ -12,9 +12,8 @@
 
 ## Ссылка на опубликованный проект
 
-GitHub Pages: https://USERNAME.github.io/kr1-html-css-shop/
+GitHub Pages: https://ga4r.github.io/kr1-html-css-shop/
 
-> Замените `USERNAME` на свой логин GitHub после публикации.
 
 ## Как посмотреть проект
 
@@ -108,8 +107,8 @@ git init
 git add .
 git commit -m "КР1: многостраничный сайт магазина пульсометров"
 git branch -M main
-git remote add origin https://github.com/USERNAME/kr1-html-css-shop.git
+git remote add origin https://github.com/ga4r/kr1-html-css-shop.git
 git push -u origin main
 ```
 
-Затем в репозитории: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `(root)` → Save**. Через 1–2 минуты сайт будет доступен по адресу `https://USERNAME.github.io/kr1-html-css-shop/`.
+Затем в репозитории: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `(root)` → Save**. Через 1–2 минуты сайт будет доступен по адресу `https://ga4r.github.io/kr1-html-css-shop/`.
